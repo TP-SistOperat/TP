@@ -1,1 +1,5 @@
-
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=tcp:[nombre-servidor-azure].database.windows.net,1433;Initial Catalog=[nombre-base-datos];Persist Security Info=False;User ID=[usuario];Password=[contraseña];MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}
